@@ -1,0 +1,3 @@
+INDEX VERSION 1.132+C:\Users\seaya\eclipse-workspace\BeakjunAlgorithm\.metadata\.plugins\org.eclipse.jdt.core
+3305609876.index
+933055062.index
