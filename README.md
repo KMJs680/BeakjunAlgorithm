@@ -1,2 +1,2 @@
-## BeakjunAlgorithm
-# BeakjunAlgorithm을 공부합니다.
+# BeakjunAlgorithm
+### BeakjunAlgorithm을 공부합니다.
