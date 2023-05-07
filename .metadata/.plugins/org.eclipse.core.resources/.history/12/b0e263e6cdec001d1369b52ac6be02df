@@ -1,0 +1,30 @@
+package backjun.step5.step01;
+
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		int prime_number = sc.nextInt();
+		int num;
+		int count =0;
+		
+		for(int i=0; i<prime_number; i++) {
+			num = sc.nextInt();
+			
+			if((num/2==0)&&(num/1==0)){
+				count++;
+			
+				
+			}else if(num%2==0){
+				break;
+			}
+		}
+		System.out.println(count);
+
+	}
+
+}
